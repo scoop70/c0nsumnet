@@ -46,7 +46,8 @@ h2{
   }
 }
 .intro-section {
-  height: 50vh;max-height: 600px;
+  /*height: 50vh;max-height: 600px;*/
+  height: 100%;
   padding-top: 150px;
   text-align: left;
   background: #f5bd00;
