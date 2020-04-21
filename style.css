@@ -26,6 +26,7 @@ h2{
 h3{
   line-height: 40px;
 }
+
 .h1-hero{
   font-size:4.5rem;
   line-height: 7rem;
@@ -34,6 +35,13 @@ h3{
   -webkit-text-stroke-color: white;
   text-shadow:0 0 5px #000;
 }
+.h2-cta{
+  color:#ffffff;
+}
+.intro-text{
+  color:#f5bd00;
+}
+
 .navbar-transparent {
   background-color: transparent;
   background: transparent;
@@ -310,4 +318,11 @@ li {
     font-size:25px;
     line-height:35px
   }
+  .h2-cta{
+    font-size:18px;
+    line-height:25px
+}
+.intro-text{
+  color:#f5bd00;
+}
 }
