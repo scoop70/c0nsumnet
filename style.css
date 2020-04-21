@@ -37,6 +37,9 @@ h3{
 }
 .h2-cta{
   color:#ffffff;
+  text-transform: uppercase;
+  -webkit-text-stroke-color: white;
+  text-shadow:0 0 5px #000;
 }
 .intro-txt{
   color:#f5bd00;
@@ -317,12 +320,14 @@ li {
 .h1-hero{
   font-size:25px;
   line-height:35px;
-  margin-top:60px;
+  margin-top:80px;
 }
 .h2-cta{
   font-size:18px;
   line-height:25px;
   text-transform: uppercase;
+  -webkit-text-stroke-color: white;
+  text-shadow:0 0 5px #000;
 }
 .intro-txt{
   color:#f5bd00;
