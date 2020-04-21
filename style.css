@@ -34,16 +34,11 @@ h3{
   -webkit-text-stroke-color: white;
   text-shadow:0 0 5px #000;
 }
-.h2-hero{
-  color:#f5bd00;
-  -webkit-text-stroke-color: white;
-  text-shadow:0 0 5px #000;
-}
 .navbar-transparent {
   background-color: transparent;
   background: transparent;
   border-color: transparent;
-    background-color: #f8f8f8;
+  background-color: #f8f8f8;
 }
 @media (min-width: 767px) {
   .navbar {
@@ -312,6 +307,7 @@ li {
 
 @media (max-width:530px){
   .h1-hero{
-  font-size:24px;
+    font-size:25px;
+    line-height:35px
   }
 }
