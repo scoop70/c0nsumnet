@@ -55,6 +55,13 @@ h3{
   .top-nav-collapse {
     padding: 0;
   }
+  .h1-hero{
+  font-size:20px;
+  margin-top:120px;
+  color:#ffffff;
+  -webkit-text-stroke-color: white;
+  text-shadow:0 0 5px #000;
+}
 }
 .intro-section {
   /*height: 50vh;max-height: 600px;
