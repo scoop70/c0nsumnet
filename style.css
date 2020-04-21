@@ -27,9 +27,8 @@ h3{
   line-height: 40px;
 }
 .h1-hero{
-  /*font-size:4.5rem;
-  line-height: 7rem;*/
-  font-size:10vw;
+  font-size:4.5rem;
+  line-height: 7rem;
   margin-top:120px;
   color:#ffffff;
   -webkit-text-stroke-color: white;
