@@ -38,7 +38,7 @@ h3{
 .h2-cta{
   color:#ffffff;
 }
-.intro-text{
+.intro-txt{
   color:#f5bd00;
 }
 
@@ -322,7 +322,8 @@ li {
     font-size:18px;
     line-height:25px
 }
-.intro-text{
+.intro-txt{
   color:#f5bd00;
+  line-height:25px
 }
 }
