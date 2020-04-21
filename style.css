@@ -314,16 +314,19 @@ li {
 }
 
 @media (max-width:530px){
-  .h1-hero{
-    font-size:25px;
-    line-height:35px;
-  }
-  .h2-cta{
-    font-size:18px;
-    line-height:25px;
+.h1-hero{
+  font-size:25px;
+  line-height:35px;
+  margin-top:30px;
+}
+.h2-cta{
+  font-size:18px;
+  line-height:25px;
+  text-transform: uppercase;
 }
 .intro-txt{
   color:#f5bd00;
+  font-size:18px;
   line-height:25px;
 }
 }
