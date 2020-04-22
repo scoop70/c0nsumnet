@@ -46,6 +46,12 @@ h3{
   -webkit-text-stroke-color: white;
   text-shadow:0 0 5px #000;
 }
+.wordfan{
+  font-size:3.5rem;
+  line-height: 45px;
+  margin:0px;
+  margin-bottom:20px;
+}
 .startdirect{
   text-transform: uppercase;
 }
@@ -101,7 +107,7 @@ h3{
   background: #f5bd00;
 }
 .contact-section {
-  height: 70vh;max-height: 500px;
+  height: 70vh;max-height: 550px;
   padding-top: 100px;
   text-align: center;
   background: #eee;
