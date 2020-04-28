@@ -641,3 +641,21 @@ $animationSpeed: 40s;
   height: 100px;
   width: 250px;
 }
+/*carousel*/
+
+.carousel, .carousel-inner {
+  width: 360px;
+  height: 360px;
+
+  .item {
+    overflow: hidden;
+    img {
+      height: 360px;;
+      max-width: none;
+      left: 50%;
+      position: relative;
+      transform: translateX(-50%);
+      -webkit-transform: translateX(-50%);
+    }
+  }
+}
