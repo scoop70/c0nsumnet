@@ -471,13 +471,14 @@ blockquote p span{
 }
 
 .emoji {
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
   margin: 10px 15px;
   background: #FFDA6A;
   display: inline-block;
   border-radius: 10%;
   position: relative;
+  margin-bottom:0px;
 }
 .emoji:after {
   position: absolute;
@@ -487,10 +488,10 @@ blockquote p span{
   left: calc(50% - 30px);
   color: #8A8A8A;
 }
-.emoji__face, .emoji__eyebrows, .emoji__eyes, .emoji__mouth, .emoji__tongue, .emoji__heart, .emoji__hand, .emoji__thumb {
+.emoji__heart{
   position: absolute;
 }
-.emoji__face:before, .emoji__face:after, .emoji__eyebrows:before, .emoji__eyebrows:after, .emoji__eyes:before, .emoji__eyes:after, .emoji__mouth:before, .emoji__mouth:after, .emoji__tongue:before, .emoji__tongue:after, .emoji__heart:before, .emoji__heart:after, .emoji__hand:before, .emoji__hand:after, .emoji__thumb:before, .emoji__thumb:after {
+.emoji__heart:before, .emoji__heart:after{
   position: absolute;
   content: '';
 }
