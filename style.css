@@ -63,6 +63,15 @@ h3{
   color:#f5bd00;
   font-size:22px;
 }
+.hilight{
+  color: #000000;
+    background: #f5bd00;
+    -webkit-transition: background 500ms ease-in;
+    -moz-transition: background 500ms ease-in;
+    -o-transition: background 500ms ease-in;
+    -ms-transition: background 500ms ease-in;
+    transition: background 500ms ease-in;
+}
 
 .navbar-transparent {
   background-color: transparent;
