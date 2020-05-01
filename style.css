@@ -414,8 +414,8 @@ and (orientation : portrait) { /* iphone 6,7,8, portrait */
 }
 .intro-txt{
   color:#f5bd00;
-  font-size:20px;
-  line-height:30px;
+  font-size:18px;
+  line-height:25px;
 }
 }
 
@@ -430,8 +430,8 @@ and (orientation : landscape) { /* iphone 6,7,8, landscape */
 }
 .intro-txt{
   color:#f5bd00;
-  font-size:20px;
-  line-height:30px;
+  font-size:18px;
+  line-height:25px;
 }
 }
 .carousel-inner{
